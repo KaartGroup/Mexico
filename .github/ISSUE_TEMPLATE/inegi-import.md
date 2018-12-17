@@ -25,4 +25,4 @@ Further information including processes and progress can be found on the OSM wik
 | Robin                 | [FreestyleR15_import](https://www.openstreetmap.org/user/FreestyleR15_import)                     |
 | Sharon                | [Sherbare_import](https://www.openstreetmap.org/user/Sherbare_import)                             |
 | Zack                  | [the_node_less_traveled_import](https://www.openstreetmap.org/user/the_node_less_traveled_import) |
-|                       |                                                                                                   |
+
