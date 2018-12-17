@@ -4,7 +4,7 @@ This repository tracks the various mapping projects throughout Mexico that are m
 ## Projects
 
 ### [INEGI Import Project](https://github.com/KaartGroup/Mexico/projects/1 "Project 1")
-[Mexico Road Name Import Project - OSM Wiki] (https://wiki.openstreetmap.org/wiki/Mexico_Road_Name_Import_Project "Mexico Road Name Import Project")
+[Mexico Road Name Import Project - OSM Wiki](https://wiki.openstreetmap.org/wiki/Mexico_Road_Name_Import_Project "Mexico Road Name Import Project")
 
 
 #### Contributors
