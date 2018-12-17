@@ -25,4 +25,4 @@ In addition to the community rules that all contributors must abide by, the Kaar
 ## Additional Information
 Please send any general feedback on Kaart's work on OpenStreetMap to [Aaron Young](http://www.openstreetmap.org/user/vespax).
  
-Please send any general feedback on this project to the project's lead [Kiana Ziola](https://www.openstreetmap.org/user/pizzagal). 
+Please send any general feedback on this project to the project's lead [Leanne Schneider](https://www.openstreetmap.org/user/LSkalayo). 
