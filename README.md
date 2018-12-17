@@ -17,4 +17,3 @@ This repository tracks the various mapping projects throughout Mexico that are m
 | Robin                 | [FreestyleR15_import](https://www.openstreetmap.org/user/FreestyleR15_import)                     |
 | Sharon                | [Sherbare_import](https://www.openstreetmap.org/user/Sherbare_import)                             |
 | Zack                  | [the_node_less_traveled_import](https://www.openstreetmap.org/user/the_node_less_traveled_import) |
-|                       |                                                                                                   |
