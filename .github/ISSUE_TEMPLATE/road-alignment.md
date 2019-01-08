@@ -6,9 +6,9 @@ about: Template for Road Alignment Projects
 
 ## Tasking Manager
 The [Kaart Data Team](https://wiki.openstreetmap.org/wiki/Kaart#Kaart_Data_Team) in conjunction with community mappe\
-rs will work to validate road alignment to improve the overall road network in PROVINCE.
+rs will work to validate road alignment to improve the overall road network in <+PROVINCE+>.
 
-Link to tasking manager: [ PROVINCE - Road Alignment](https://tasks.hotosm.org/project/)
+Link to tasking manager: [ <+PROVINCE+> - Road Alignment](https://tasks.hotosm.org/project/<+PROJECT ID+>)
 
 Preferred Imagery: Digital Globe Premium
 
@@ -19,7 +19,7 @@ rors as possible - namely having appropriate connectivity and alignment. Any oth
 should be resolved using the standardized guidelines outlined by the [OSM Wiki](http://wiki.openstreetmap.org/wiki/H\
 ighways "OSM"), [WikiProject Russia](https://wiki.openstreetmap.org/wiki/RU:%D0%92%D0%B8%D0%BA%D0%B8%D0%9F%D1%80%D0%\
 BE%D0%B5%D0%BA%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F "RU") and the Kaart [Data Team Guidelines](https://github.\
-com/KaartGroup/Moldova/blob/master/KAART.md#data-team-guidelines                                                     
+com/KaartGroup/Moldova/blob/master/KAART.md#data-team-guidelines
  "Guidelines").
 
 ### Validation
