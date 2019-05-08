@@ -1,0 +1,89 @@
+{
+	"USERS": [
+		{
+			"name": "Leanne",
+			"username": "LSkalayo",
+			"comment": "Project Lead"
+		},
+		{
+			"name": "Alex",
+			"username": "Soccersweeper"
+		},
+		{
+			"name": "Arlene",
+			"username": "ArleneC"
+		},
+		{
+			"name": "Breia",
+			"username": "3agleOne"
+		},
+		{
+			"name": "Brian",
+			"username": "Unicorn Ostrich"
+		},
+		{
+			"name": "Dylan",
+			"username": "RedRangerr"
+		},
+		{
+			"name": "Jacinda",
+			"username": "Cinderblock"
+		},
+		{
+			"name": "Jacob",
+			"username": "TheMineralCartographer"
+		},
+		{
+			"name": "Logan",
+			"username": "Dalekokarta"
+		},
+		{
+			"name": "Louis",
+			"username": "BlueRanger"
+		},
+		{
+			"name": "Marshall",
+			"username": "MTG5093"
+		},
+		{
+			"name": "Matthew",
+			"username": "MappnMatt"
+		},
+		{
+			"name": "Morgen",
+			"username": "MMantlo"
+		},
+		{
+			"name": "Natasha",
+			"username": "rallynukab"
+		},
+		{
+			"name": "Nick",
+			"username": "jedimasterflint"
+		},
+		{
+			"name": "Robin",
+			"username": "RobinNoodles"
+		},
+		{
+			"name": "Ronmel",
+			"username": "Mel_1"
+		},
+		{
+			"name": "Sharon",
+			"username": "Sherbare"
+		},
+		{
+			"name": "Steve",
+			"username": "Smoothdog"
+		},
+		{
+			"name": "William",
+			"username": "Imjusbuddy"
+		},
+		{
+			"name": "Zach",
+			"username": "MTBdude"
+		}
+	]
+}
