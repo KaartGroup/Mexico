@@ -29,5 +29,5 @@ This repository tracks the various mapping projects throughout Mexico that are m
 | Ronmel                | [Mel_1](https://www.openstreetmap.org/user/Mel_1)                                   |
 | Sharon                | [Sherbare](https://www.openstreetmap.org/user/Sherbare)                             |
 | Steve                 | [Smoothdog](https://www.openstreetmap.org/user/Smoothdog)                           |
-| William               | [Imjusbuddy](https://www.openstreetmap.org/user/Imjusbuddy)                         |
+| William               | [ImjusBuddy](https://www.openstreetmap.org/user/ImjusBuddy)                         |
 | Zach                  | [MTBdude](https://www.openstreetmap.org/user/MTBdude)                               |
