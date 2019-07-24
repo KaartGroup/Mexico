@@ -30,3 +30,6 @@ This repository tracks the various mapping projects throughout Mexico that are m
 | Sharon                | [Sherbare](https://www.openstreetmap.org/user/Sherbare)                       |
 | Steve                 | [Smoothdog](https://www.openstreetmap.org/user/Smoothdog)                     |
 | William               | [ImjusBuddy](https://www.openstreetmap.org/user/ImjusBuddy)                   |
+|                       | [DreadPirateRoberts](https://www.openstreetmap.org/user/DreadPirateRoberts)   |
+|                       | [EthanK](https://www.openstreetmap.org/user/EthanK)                           |
+|                       | [Yagni](https://www.openstreetmap.org/user/Yagni)                             |
