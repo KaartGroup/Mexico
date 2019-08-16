@@ -1,94 +1,117 @@
 {
-   "USERS" : [
+   "USERS": [
       {
-         "comment" : "Project Lead",
-         "name" : "Leanne",
-         "username" : "LSkalayo"
+         "comment": "Project Lead",
+         "name": "Leanne",
+         "username": "LSkalayo",
+         "uid": "7445887"
       },
       {
-         "name" : "Alex",
-         "username" : "Soccersweeper"
+         "name": "Alex",
+         "username": "Soccersweeper",
+         "uid": "9498478"
       },
       {
-         "name" : "Arlene",
-         "username" : "ArleneC"
+         "name": "Arlene",
+         "username": "ArleneC",
+         "uid": "9355928"
       },
       {
-         "name" : "Breia",
-         "username" : "3agleOne"
+         "name": "Breia",
+         "username": "3agleOne",
+         "uid": "9550075"
       },
       {
-         "name" : "Brian",
-         "username" : "Unicorn Ostrich"
+         "name": "Brian",
+         "username": "Unicorn Ostrich",
+         "uid": "9319448"
       },
       {
-         "name" : "Chris",
-         "username" : "Goose6thAB"
+         "name": "Chris",
+         "username": "Goose6thAB",
+         "uid": "10082622"
       },
       {
-         "name" : "Rikki",
-         "username" : "Chilly Chinchillas"
+         "name": "Rikki",
+         "username": "Chilly Chinchillas",
+         "uid": "10082653"
       },
       {
-         "name" : "Jacinda",
-         "username" : "Cinderblock"
+         "name": "Jacinda",
+         "username": "Cinderblock",
+         "uid": "9564205"
       },
       {
-         "name" : "Logan",
-         "username" : "Dalekokarta"
+         "name": "Logan",
+         "username": "Dalekokarta",
+         "uid": "9633078"
       },
       {
-         "name" : "Louis",
-         "username" : "BlueRanger"
+         "name": "Louis",
+         "username": "BlueRanger",
+         "uid": "9467992"
       },
       {
-         "name" : "Marshall",
-         "username" : "MTG5093"
+         "name": "Marshall",
+         "username": "MTG5093",
+         "uid": "9220580"
       },
       {
-         "name" : "Matthew",
-         "username" : "MappnMatt"
+         "name": "Matthew",
+         "username": "MappnMatt",
+         "uid": "9454623"
       },
       {
-         "name" : "Morgen",
-         "username" : "MMantlo"
+         "name": "Morgen",
+         "username": "MMantlo",
+         "uid": "9375460"
       },
       {
-         "name" : "Natasha",
-         "username" : "rallynukab"
+         "name": "Natasha",
+         "username": "rallynukab",
+         "uid": "9434617"
       },
       {
-         "name" : "Nick",
-         "username" : "jedimasterflint"
+         "name": "Nick",
+         "username": "jedimasterflint",
+         "uid": "9218955"
       },
       {
-         "name" : "Robin",
-         "username" : "RobinNoodles"
+         "name": "Robin",
+         "username": "RobinNoodles",
+         "uid": "9050649"
       },
       {
-         "name" : "Ronmel",
-         "username" : "Mel_1"
+         "name": "Ronmel",
+         "username": "Mel_1",
+         "uid": "9395604"
       },
       {
-         "name" : "Sharon",
-         "username" : "Sherbare"
+         "name": "Sharon",
+         "username": "Sherbare",
+         "uid": "8896177"
       },
       {
-         "name" : "Steve",
-         "username" : "Smoothdog"
+         "name": "Steve",
+         "username": "Smoothdog",
+         "uid": "9476906"
       },
       {
-         "name" : "William",
-         "username" : "ImjusBuddy"
+         "name": "William",
+         "username": "ImjusBuddy",
+         "uid": "9476874"
       },
       {
-         "username" : "DreadPirateRoberts"
+         "username": "DreadPirateRoberts",
+         "uid": "10139949"
       },
       {
-         "username" : "EthanK"
+         "username": "EthanK",
+         "uid": "10139455"
       },
       {
-         "username" : "Yagni"
+         "username": "Yagni",
+         "uid": "10155906"
       }
    ]
 }
