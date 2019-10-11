@@ -12,12 +12,15 @@ This repository tracks the various mapping projects throughout Mexico that are m
 |-----------------------|-------------------------------------------------------------------------------|
 | Leanne (Project Lead) | [LSkalayo](https://www.openstreetmap.org/user/LSkalayo)                       |
 | Alex                  | [Soccersweeper](https://www.openstreetmap.org/user/Soccersweeper)             |
+| Anthony               | [acrague](https://www.openstreetmap.org/user/acrague)                         |
 | Arlene                | [ArleneC](https://www.openstreetmap.org/user/ArleneC)                         |
 | Breia                 | [3agleOne](https://www.openstreetmap.org/user/3agleOne)                       |
 | Brian                 | [Unicorn Ostrich](https://www.openstreetmap.org/user/Unicorn%20Ostrich)       |
 | Chris                 | [Goose6thAB](https://www.openstreetmap.org/user/Goose6thAB)                   |
-| Rikki                 | [Chilly Chinchillas](https://www.openstreetmap.org/user/Chilly%20Chinchillas) |
+| Ethan                 | [Ethan](https://www.openstreetmap.org/user/Ethan)                             |
+| Ian                   | [Ikohl](https://www.openstreetmap.org/user/Ikohl)                             |
 | Jacinda               | [Cinderblock](https://www.openstreetmap.org/user/Cinderblock)                 |
+| Johnny                | [spititout](https://www.openstreetmap.org/user/spititout)                     |
 | Logan                 | [Dalekokarta](https://www.openstreetmap.org/user/Dalekokarta)                 |
 | Louis                 | [BlueRanger](https://www.openstreetmap.org/user/BlueRanger)                   |
 | Marshall              | [MTG5093](https://www.openstreetmap.org/user/MTG5093)                         |
@@ -25,11 +28,12 @@ This repository tracks the various mapping projects throughout Mexico that are m
 | Morgen                | [MMantlo](https://www.openstreetmap.org/user/MMantlo)                         |
 | Natasha               | [rallynukab](https://www.openstreetmap.org/user/rallynukab)                   |
 | Nick                  | [jedimasterflint](https://www.openstreetmap.org/user/jedimasterflint)         |
+| Rikki                 | [Chilly Chinchillas](https://www.openstreetmap.org/user/Chilly%20Chinchillas) |
+| Rob                   | [RouteRob](https://www.openstreetmap.org/user/RouteRob)                       |
 | Robin                 | [RobinNoodles](https://www.openstreetmap.org/user/RobinNoodles)               |
 | Ronmel                | [Mel_1](https://www.openstreetmap.org/user/Mel_1)                             |
-| Sharon                | [Sherbare](https://www.openstreetmap.org/user/Sherbare)                       |
+| Sarah                 | [Yagni](https://www.openstreetmap.org/user/Yagni)                             |
+| Savana                | [staysavy](https://www.openstreetmap.org/user/staysavy)                       |
+| Sharon                | [mapcraft](https://www.openstreetmap.org/user/mapcraft)                       |
 | Steve                 | [Smoothdog](https://www.openstreetmap.org/user/Smoothdog)                     |
 | William               | [ImjusBuddy](https://www.openstreetmap.org/user/ImjusBuddy)                   |
-|                       | [DreadPirateRoberts](https://www.openstreetmap.org/user/DreadPirateRoberts)   |
-|                       | [EthanK](https://www.openstreetmap.org/user/EthanK)                           |
-|                       | [Yagni](https://www.openstreetmap.org/user/Yagni)                             |

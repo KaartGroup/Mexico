@@ -12,6 +12,11 @@
          "uid": "9498478"
       },
       {
+         "name": "Anthony",
+         "username": "acrague",
+         "uid": "10128204"
+      },
+      {
          "name": "Arlene",
          "username": "ArleneC",
          "uid": "9355928"
@@ -32,14 +37,24 @@
          "uid": "10082622"
       },
       {
-         "name": "Rikki",
-         "username": "Chilly Chinchillas",
-         "uid": "10082653"
+         "name": "Ethan",
+         "username": "Ethan",
+         "uid": "10139455"
+      },
+      {
+         "name": "Ian",
+         "username": "Ikohl",
+         "uid": "10140113"
       },
       {
          "name": "Jacinda",
          "username": "Cinderblock",
          "uid": "9564205"
+      },
+      {
+         "name": "Johnny",
+         "username": "spititout",
+         "uid": "10140140"
       },
       {
          "name": "Logan",
@@ -77,6 +92,16 @@
          "uid": "9218955"
       },
       {
+         "name": "Rikki",
+         "username": "Chilly Chinchillas",
+         "uid": "10082653"
+      },
+      {
+         "name": "Rob",
+         "username": "RouteRob",
+         "uid": "10085022"
+      },
+      {
          "name": "Robin",
          "username": "RobinNoodles",
          "uid": "9050649"
@@ -87,9 +112,19 @@
          "uid": "9395604"
       },
       {
+         "name": "Sarah",
+         "username": "Yagni",
+         "uid": "10155906"
+      },
+      {
+         "name": "Savana",
+         "username": "staysavy",
+         "uid": "10051690"
+      },
+      {
          "name": "Sharon",
-         "username": "Sherbare",
-         "uid": "8896177"
+         "username": "mapcraft",
+         "uid": "9153797"
       },
       {
          "name": "Steve",
@@ -100,18 +135,6 @@
          "name": "William",
          "username": "ImjusBuddy",
          "uid": "9476874"
-      },
-      {
-         "username": "DreadPirateRoberts",
-         "uid": "10139949"
-      },
-      {
-         "username": "EthanK",
-         "uid": "10139455"
-      },
-      {
-         "username": "Yagni",
-         "uid": "10155906"
       }
    ]
 }
