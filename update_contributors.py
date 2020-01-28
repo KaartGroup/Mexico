@@ -119,8 +119,8 @@ def print_JOSM_search(realUsers):
     print(searchString)
 
 def updateFiles(files, users):
-    if 'USERS' in users:
-        realUsers = users['USERS']
+    if 'users' in users:
+        realUsers = users['users']
     else:
         realUsers = users
 
@@ -147,13 +147,13 @@ def updateFiles(files, users):
         os.rename(tfile + '.tmp', tfile)
 
 def addUIDS(users):
-    if 'USERS' in users:
-        realUsers = users['USERS']
+    if 'users' in users:
+        realUsers = users['users']
     else:
         realUsers = users
     for user in realUsers:
-        if 'uid' not in user:
-            user['uid'] = getUserID(user['username'])
+        if 'user_id' not in user:
+            user['user_id'] = getUserID(user['username'])
     return users
 
 def main():
