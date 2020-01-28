@@ -1,120 +1,126 @@
 {
-   "USERS": [
+   "tags": [
+      {
+         "const": "highway",
+         "tag": "name"
+      }
+   ],
+   "users": [
       {
          "comment": "Project Lead",
          "name": "Leanne",
          "username": "LSkalayo",
-         "uid": "7445887"
+         "user_id": "7445887"
       },
       {
          "name": "Alex",
          "username": "Soccersweeper",
-         "uid": "9498478"
+         "user_id": "9498478"
       },
       {
          "name": "Anthony",
          "username": "acrague",
-         "uid": "10128204"
+         "user_id": "10128204"
       },
       {
          "name": "Arlene",
          "username": "ArleneC",
-         "uid": "9355928"
+         "user_id": "9355928"
       },
       {
          "name": "Breia",
          "username": "3agleOne",
-         "uid": "9550075"
+         "user_id": "9550075"
       },
       {
          "name": "Brian",
          "username": "Unicorn Ostrich",
-         "uid": "9319448"
+         "user_id": "9319448"
       },
       {
          "name": "Ian",
          "username": "Ikohl",
-         "uid": "10140113"
+         "user_id": "10140113"
       },
       {
          "name": "Jacinda",
          "username": "Cinderblock",
-         "uid": "9564205"
+         "user_id": "9564205"
       },
       {
          "name": "Logan",
          "username": "Dalekokarta",
-         "uid": "9633078"
+         "user_id": "9633078"
       },
       {
          "name": "Louis",
          "username": "BlueRanger",
-         "uid": "9467992"
+         "user_id": "9467992"
       },
       {
          "name": "Marshall",
          "username": "MTG5093",
-         "uid": "9220580"
+         "user_id": "9220580"
       },
       {
          "name": "Matthew",
          "username": "MappnMatt",
-         "uid": "9454623"
+         "user_id": "9454623"
       },
       {
          "name": "Morgen",
          "username": "MMantlo",
-         "uid": "9375460"
+         "user_id": "9375460"
       },
       {
          "name": "Natasha",
          "username": "rallynukab",
-         "uid": "9434617"
+         "user_id": "9434617"
       },
       {
          "name": "Nick",
          "username": "jedimasterflint",
-         "uid": "9218955"
+         "user_id": "9218955"
       },
       {
          "name": "Rob",
          "username": "RouteRob",
-         "uid": "10085022"
+         "user_id": "10085022"
       },
       {
          "name": "Robin",
          "username": "RobinNoodles",
-         "uid": "9050649"
+         "user_id": "9050649"
       },
       {
          "name": "Ronmel",
          "username": "Mel_1",
-         "uid": "9395604"
+         "user_id": "9395604"
       },
       {
          "name": "Sarah",
          "username": "Yagni",
-         "uid": "10155906"
+         "user_id": "10155906"
       },
       {
          "name": "Savana",
          "username": "staysavy",
-         "uid": "10051690"
+         "user_id": "10051690"
       },
       {
          "name": "Sharon",
          "username": "mapcraft",
-         "uid": "9153797"
+         "user_id": "9153797"
       },
       {
          "name": "Steve",
          "username": "Smoothdog",
-         "uid": "9476906"
+         "user_id": "9476906"
       },
       {
          "name": "William",
          "username": "ImjusBuddy",
-         "uid": "9476874"
+         "user_id": "9476874"
       }
    ]
 }
