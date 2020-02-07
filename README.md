@@ -16,8 +16,11 @@ This repository tracks the various mapping projects throughout Mexico that are m
 | Arlene                | [ArleneC](https://www.openstreetmap.org/user/ArleneC)                                   |
 | Breia                 | [3agleOne](https://www.openstreetmap.org/user/3agleOne)                                 |
 | Brian                 | [Unicorn Ostrich](https://www.openstreetmap.org/user/Unicorn%20Ostrich)                 |
+| Casey                 | [CaseyIvanW](https://www.openstreetmap.org/user/CaseyIvanW)                             |
+| Dave                  | [krinkov76239](https://www.openstreetmap.org/user/krinkov76239)                         |
 | Ian                   | [Ikohl](https://www.openstreetmap.org/user/Ikohl)                                       |
 | Jacinda               | [Cinderblock](https://www.openstreetmap.org/user/Cinderblock)                           |
+| Keeley                | [kebobo](https://www.openstreetmap.org/user/kebobo)                                     |
 | Logan                 | [Dalekokarta](https://www.openstreetmap.org/user/Dalekokarta)                           |
 | Louis                 | [BlueRanger](https://www.openstreetmap.org/user/BlueRanger)                             |
 | Marshall              | [MTG5093](https://www.openstreetmap.org/user/MTG5093)                                   |
@@ -32,7 +35,7 @@ This repository tracks the various mapping projects throughout Mexico that are m
 | Savana                | [staysavy](https://www.openstreetmap.org/user/staysavy)                                 |
 | Sharon                | [mapcraft](https://www.openstreetmap.org/user/mapcraft)                                 |
 | Steve                 | [Smoothdog](https://www.openstreetmap.org/user/Smoothdog)                               |
-| William               | [ImjusBuddy](https://www.openstreetmap.org/user/ImjusBuddy)                             |
+| William               | [Buddy-the-Elf](https://www.openstreetmap.org/user/Buddy-the-Elf)                       |
 | Andrew P              | [G_Fyyar](https://www.openstreetmap.org/user/G_Fyyar)                                   |
 | Andrew S              | [Plutocrats](https://www.openstreetmap.org/user/Plutocrats)                             |
 | Anita                 | [natureandchill](https://www.openstreetmap.org/user/natureandchill)                     |
@@ -41,6 +44,7 @@ This repository tracks the various mapping projects throughout Mexico that are m
 | Christian             | [Co2013](https://www.openstreetmap.org/user/Co2013)                                     |
 | Daniel                | [The_Intern](https://www.openstreetmap.org/user/The_Intern)                             |
 | Farris                | [FarieBerrie](https://www.openstreetmap.org/user/FarieBerrie)                           |
+| Joseph                | [Szekha](https://www.openstreetmap.org/user/Szekha)                                     |
 | Logan                 | [127logs](https://www.openstreetmap.org/user/127logs)                                   |
 | Luis                  | [medrano93](https://www.openstreetmap.org/user/medrano93)                               |
 | Nick                  | [nickmettauer](https://www.openstreetmap.org/user/nickmettauer)                         |
